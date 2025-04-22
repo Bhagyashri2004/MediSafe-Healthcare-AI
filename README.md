@@ -17,4 +17,4 @@ recommendations based on Ayurveda, Homeopathy, or Allopathy,
 enabling users to choose their preferred medical approach. By offering 
 accurate medical insights, ensuring safe medicine consumption, and 
 improving healthcare accessibility, this solution empowers individuals 
-to make informed health decisions and enhances overall well-being. 
+to make informed health decisions and enhances overall well-being.
